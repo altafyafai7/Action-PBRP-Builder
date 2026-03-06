@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/ADITHY4N/recovery_device_xiaomi_sky.git'
+        default: 'https://github.com/AltafYafai/device_xiaomi_sky-recovery'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'Pbrp'
+        default: 'TWRP'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
